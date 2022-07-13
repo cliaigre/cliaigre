@@ -1,8 +1,8 @@
 ### Hi, and Welcome! 👋
 
-- :mortar_board: I'm currently learning Data Science and Data Engineering @TelecomParis
-- :computer: I’m interested in Computer Vision, NLP and Reinforcement Learning
-- :mailbox: Feel free to contact me at clement.liaigre@telecom-paris.fr or on [LinkedIn](https://www.linkedin.com/in/cliaigre/)
+- :mortar_board: I'm currently learning **Data Science** and **Data Engineering @TelecomParis**
+- :computer: I’m interested in **Computer Vision, NLP and Reinforcement Learning**
+- :mailbox: Feel free to contact me at **clement.liaigre@telecom-paris.fr** or on [**LinkedIn**](https://www.linkedin.com/in/cliaigre/)
 
 <!--
 **cliaigre/cliaigre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
