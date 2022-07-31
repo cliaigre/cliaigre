@@ -2,6 +2,7 @@
 
 - :mortar_board: I'm currently learning **Data Science** and **Data Engineering @TelecomParis**
 - :computer: I’m interested in **Computer Vision, NLP and Reinforcement Learning**
+- :soccer: I'm passionate about **Sports Analytics**
 - :mailbox: Feel free to contact me at **clement.liaigre@telecom-paris.fr** or on [**LinkedIn**](https://www.linkedin.com/in/cliaigre/)
 
 <!--
