@@ -1,7 +1,7 @@
 ### Hi, and Welcome! 👋
 
 - :video_game: I'm currently working as **Data Scientist** in **NLP** **@Ubisoft**
-- :mortar_board: I'm graduated from **Télécom Paris** with a master degree in **Big Data**
+- :mortar_board: I have a master degree in **Big Data** & **Machine Learning** from **Télécom Paris**
 - :computer: I’m interested in **Computer Vision, Natural Language Processing and Reinforcement Learning**
 - :soccer: I'm passionate about **Sports Analytics**
 - :mailbox: Feel free to contact me at **clement.liaigre@telecom-paris.fr** or on [**LinkedIn**](https://www.linkedin.com/in/cliaigre/)
