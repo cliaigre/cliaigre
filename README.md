@@ -1,6 +1,6 @@
 ### Hi, and Welcome! 👋
 
-- :video_game: I'm currently working as **Data Scientist** in **NLP** **@Ubisoft**
+- :video_game: I'm currently working as a **Data Scientist** **@Ubisoft**
 - :mortar_board: I have a master degree in **Big Data** & **Machine Learning** from **Télécom Paris**
 - :computer: I’m interested in **Computer Vision, Natural Language Processing and Reinforcement Learning**
 - :soccer: I'm passionate about **Sports Analytics**
