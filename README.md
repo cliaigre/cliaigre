@@ -2,7 +2,7 @@
 
 - :video_game: I'm currently working as a **Data Scientist** **@Ubisoft**
 - :mortar_board: I have a master degree in **Big Data** & **Machine Learning** from **Télécom Paris**
-- :computer: I’m interested in **Computer Vision, Natural Language Processing and Reinforcement Learning**
+- :computer: I’m interested in **Computer Vision, Natural Language Processing** & **Reinforcement Learning**
 - :soccer: I'm passionate about **Sports Analytics**
 - :mailbox: Feel free to contact me at **clement.liaigre@telecom-paris.fr** or on [**LinkedIn**](https://www.linkedin.com/in/cliaigre/)
 
