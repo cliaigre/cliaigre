@@ -1,8 +1,8 @@
 ### Hi, and Welcome! 👋
 
-- :soccer: :basketball: :football: I'm currently working as a **Machine Learning Engineer** **@SkillCorner**
+- :soccer: I'm currently working as a **Machine Learning Engineer** **@SkillCorner**
 - :mortar_board: I have a master degree in **Big Data** & **Machine Learning** from **Télécom Paris**
-- :computer: I’m interested in **Computer Vision, Natural Language Processing** & **Reinforcement Learning**
+- :computer: I’m interested in **Computer Vision, Graph Neural Networks** & **Reinforcement Learning**
 - :soccer: I'm passionate about **Sports Analytics**
 - :mailbox: Feel free to contact me on [**LinkedIn**](https://www.linkedin.com/in/cliaigre/)
 
